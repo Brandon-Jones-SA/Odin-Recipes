@@ -1,5 +1,13 @@
-img{
-    width: 50%;
-    display: block;
+body{
+    width: 40%;
+    margin: auto;
+    text-align: center;
 }
 
+img{
+    width: 100%;
+}
+
+ol, ul{
+    text-align: left;
+}
